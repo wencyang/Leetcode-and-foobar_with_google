@@ -27,3 +27,4 @@ class Solution(object):
             if q!=None:
                 q=q.next
         return head.next
+    
