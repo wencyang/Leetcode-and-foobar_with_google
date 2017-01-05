@@ -1,2 +1,2 @@
 # LeetcodePractise
-some solution is not efficient
+some solution imay not be efficient
