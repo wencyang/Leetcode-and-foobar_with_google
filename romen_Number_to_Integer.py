@@ -10,4 +10,3 @@ class Solution(object):
             if dic[l[i]]<dic[l[i+1]]:
                 sum=sum-2*dic[l[i]]
         return sum
-            
