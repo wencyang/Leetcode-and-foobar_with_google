@@ -1,3 +1,4 @@
+#Add 2 binary numbers, like 1100+1010, convert binary number to normal number first, then add them, finally convert it back
 class Solution(object):
     def addBinary(self, a, b):
         """
