@@ -1,4 +1,4 @@
-#change a Rome number to int
+#change a Rome number to int, when we have 4 identical letters, like IIII, it becaomes IV
 class Solution(object):
     def romanToInt(self, s):
         l=list(s)
