@@ -1,3 +1,4 @@
+#change a Rome number to int
 class Solution(object):
     def romanToInt(self, s):
         l=list(s)
