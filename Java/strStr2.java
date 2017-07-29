@@ -1,4 +1,4 @@
-//find the index of a target string in a given string in O(n) time
+//find the index of a target string in a given string in O(n) time, return -1 if not found
 public class Solution {
     /**
      * @param source a source string
