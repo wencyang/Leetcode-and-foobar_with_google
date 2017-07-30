@@ -1,4 +1,4 @@
-//Implement double sqrt(double x) and x >= 0
+//Implement double sqrt(double a) and x >= 0
 public class Solution {
     /**
      * @param x a double
@@ -27,7 +27,7 @@ public class Solution {
         //Newton method
         double x = middle;
         double y = function(x,a);
-        double diff = 1;
+        double diff = 1;//precision
         while (diff>0.0000001){
             double temp = x;
             x = x - y/slope(x);
